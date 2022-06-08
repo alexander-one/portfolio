@@ -1,6 +1,6 @@
 
 ## A Little About Me
-- 🔭 Actively seeking position in Data Science where I can put my abilities to good use
+- 🔭 Actively seeking position in Data Science
 - 🏛️ M.S. in Bioinformatics and Computational Biology from the University of Texas at Dallas 2022
 - 🦠 Work as a Microbiology Tutor and Lab Associate at Tarrant County College
 - 🎸 Classical guitar player
