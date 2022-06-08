@@ -1,5 +1,6 @@
 
 ## A Little About Me
+- 🔭 Actively seeking position in Data Science
 - 🏛️ M.S. in Bioinformatics and Computational Biology from the University of Texas at Dallas 2022
 - 🦠 Work as a Microbiology Tutor and Lab Associate at Tarrant County College
 - 🎸 Classical guitar player
@@ -26,4 +27,5 @@
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
 
 ## How to Reach Me
-TO-DO: add linkedin link
+[LinkedIn](https://www.linkedin.com/in/alexbaumannmsbcib/)
+[Email](alexander.david.baumann@gmail.com)
