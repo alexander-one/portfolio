@@ -27,3 +27,4 @@
 
 ## How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/alexbaumannmsbcib/)
+[Email](alexander.david.baumann@gmail.com)
