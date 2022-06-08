@@ -16,6 +16,8 @@
 - 📊 Explanable AI
 - 📖 Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
+- ⚙️ ML/AI solutions in production
+- 🌩️ Cloud based solutions
 
 ## A Little About Me
 - 🔭 Actively seeking position in Data Science
