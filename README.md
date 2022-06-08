@@ -26,4 +26,4 @@
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
 
 ## How to Reach Me
-TO-DO: add linkedin link
+[LinkedIn](https://www.linkedin.com/in/alexbaumannmsbcib/)
