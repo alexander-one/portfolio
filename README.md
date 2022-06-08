@@ -20,7 +20,7 @@ While this does not show every facet of my performance, it should give you an id
 - 🐦 Tweet Similarity using KNN (In Progress)
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
-- 🫁 MATLAB Lung Segmentation (Upcoming)
+- 🖥️ MATLAB Lung Segmentation (Upcoming)
 - 🏗️ Cement Strength via Linear Regression with Gradient Descent (Upcoming)
 
 ## Interested in Learning
