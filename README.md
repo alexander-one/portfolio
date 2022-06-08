@@ -21,9 +21,9 @@
 - 🏗️ Cement Strength via Linear Regression with Gradient Descent (Upcoming)
 
 ## Interested in Learning
-- Hypothesis testing
-- 📖Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
-- Intermediate distributed computing (Pyspark)
+- ❓ Hypothesis testing
+- 📖 Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
+- ❇️ Intermediate to advanced distributed computing (Pyspark)
 
 ## How to Reach Me
 TO-DO: add linkedin link
