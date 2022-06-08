@@ -7,7 +7,7 @@ While this does not show every facet of my performance, it should give you an id
 - Classical guitar player
 - Co-host of The Silverlight Guide to the Cosmere podcast
 - Once the president of a Barbershop Chorus, The Panther City Troubadours
-- DM for Dungeons and Dragons 5e and Pathfinder 2e
+- :dragon: DM for Dungeons and Dragons 5e and Pathfinder 2e
 
 ## Currently Working On
 - Analyzing past projects and bringing them up to date with what I currently know
