@@ -1,8 +1,7 @@
 ## Currently Working On
-- Analyzing past projects and bringing them up to date with what I currently know
-- Recording and editing a video on MATLAB's image processing via machine learning
-- Creating a source of my most re-used functions and processes
-- Using pipelines to explore machine learning
+- 📅 Analyzing past projects and bringing them up to date with what I currently know
+- 🎥 Recording and editing a video on MATLAB's image processing via machine learning
+- 📂 Creating a source of my most re-used functions and processes
 
 ## Projects in my Portfolio 
 - 🐦 Tweet Similarity using KNN (In Progress)
@@ -10,6 +9,11 @@
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
 - 🖥️ MATLAB Lung Segmentation (Upcoming)
 - 🏗️ Cement Strength via Linear Regression with Gradient Descent (Upcoming)
+
+## Currently Learning/Reading About
+- 🗃️ ETL processes
+- 🔗 Pipelines
+- ✔️ Clean Code practices
 
 ## Interested in Learning/Diving Deeper
 - ❓ Hypothesis testing
