@@ -6,12 +6,7 @@ import nltk
 import random
 #nltk.download()
 
-
-# Pull data into a pandas dataframe
-#
-
 class KNN():
-
 
     def get_data(self):
         url = 'https://raw.githubusercontent.com/alexander-one/test/main/nytimeshealth.txt'
