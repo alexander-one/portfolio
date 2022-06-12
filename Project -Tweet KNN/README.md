@@ -1,6 +1,6 @@
 ## About the project
 
-This project stemmed from the last assignment in my Machine Learning course, at which point I was my most accomplished in python I had been. 
+This project stemmed from the last assignment in my Machine Learning course, at which point I was my most accomplished in python. 
 
 ## The assignment:
 - Use a health news twitter account
