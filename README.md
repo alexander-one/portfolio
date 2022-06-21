@@ -8,7 +8,7 @@
 - 🐦 Tweet Similarity using KNN (In Progress)
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
-- 🖥️ MATLAB Lung Segmentation (Upcoming)
+- 🖥️ MATLAB Lung Segmentation (In Progress)
 - 🏗️ Cement Strength via Linear Regression with Gradient Descent (Upcoming)
 
 ## Currently Learning/Reading About
