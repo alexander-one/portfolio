@@ -13,3 +13,5 @@ Upon completing the project, with my limited ML knowledge, what I ended up with 
 At the time, I thought this should be higher. After learning quite a bit more in a course about ML, I look back on this and know that it ended up being a good jumping off moment for what would become a deep desire to use machine learning in my career. 
 
 The MATLAB code here is basic and not explained well. As I get further through my portfolio projects I will be updating it with what I've learned since completing the project. 
+
+Please view the presentation explaining the project [here](https://docs.google.com/presentation/d/15-Rns4uwowC0d-tkdfq-XMDimatbUe8y/edit?usp=sharing&ouid=104359248521311157696&rtpof=true&sd=true) or download the .pptx above. 
