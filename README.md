@@ -2,6 +2,7 @@
 - 📅 Analyzing past projects and bringing them up to date with what I currently know
 - 🎥 Recording and editing a video on MATLAB's image processing via machine learning
 - 📂 Creating a source of my most re-used functions and processes
+- 🐍 Reveiwing Python to have "just in case" knowledge instead of "just in time" knowledge
 
 ## Projects in my Portfolio 
 - 🐦 Tweet Similarity using KNN (In Progress)
