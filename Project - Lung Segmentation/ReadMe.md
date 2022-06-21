@@ -11,3 +11,5 @@ At times it was stressful as there wasn't a clear explanation of how to get the 
 
 Upon completing the project, with my limited ML knowledge, what I ended up with was about 82% accuracy in segmenting the lung from the rest of the x-ray image. 
 At the time, I thought this should be higher. After learning quite a bit more in a course about ML, I look back on this and know that it ended up being a good jumping off moment for what would become a deep desire to use machine learning in my career. 
+
+The MATLAB code here is basic and not explained well. As I get further through my portfolio projects I will be updating it with what I've learned since completing the project. 
