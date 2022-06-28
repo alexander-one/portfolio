@@ -3,13 +3,14 @@
 - 🎥 Recording and editing a video on MATLAB's image processing via machine learning
 - 📂 Creating a source of my most re-used functions and processes
 - 🐍 Reveiwing Python to have "just in case" knowledge instead of "just in time" knowledge
+- 🧮 Completing Danny Ma's SQL challenges
 
 ## Projects in my Portfolio 
-- 🐦 Tweet Similarity using KNN (In Progress) - [Example of clean coding outside of a notebook in the .py](https://github.com/alexander-one/portfolio/blob/main/Project%20-Tweet%20KNN/KNN_Tweets.py)
+- 🐦 Tweet Similarity using KNN (In Progress) - [Example of clean coding outside of a notebook](https://github.com/alexander-one/portfolio/blob/main/Project%20-Tweet%20KNN/KNN_Tweets.py)
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
 - 🖥️ MATLAB Lung Segmentation (In Progress) - Needs to be edited for clarity in the code
-- 🏗️ Cement Strength via Linear Regression with Gradient Descent (In progress) - [Example of using scikit learn in the .ipynb](https://github.com/alexander-one/portfolio/blob/main/Project%20-%20Concrete%20Strength%20ML/Concrete%20Strength%20ML%20Techniques.ipynb)
+- 🏗️ Cement Strength via Linear Regression with various ML tools (In progress) - [Example of using scikit learn](https://github.com/alexander-one/portfolio/blob/main/Project%20-%20Concrete%20Strength%20ML/Concrete%20Strength%20ML%20Techniques.ipynb)
 
 ## Currently Learning/Reading About
 - 🗃️ ETL processes
@@ -17,12 +18,14 @@
 - ✔️ Clean Code practices
 
 ## Interested in Learning/Diving Deeper
+- :whale: Docker
 - ❓ Hypothesis testing
 - 📊 Explanable AI
 - 📖 Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
 - ⚙️ ML/AI solutions in production
 - 🌩️ Cloud based solutions
+- 👁️ Visualization tools
 
 ## A Little About Me
 - 🔭 Actively seeking position in Data Science
