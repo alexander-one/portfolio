@@ -24,6 +24,7 @@
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
 - ⚙️ ML/AI solutions in production
 - 🌩️ Cloud based solutions
+- 👁️ Visualization tools
 
 ## A Little About Me
 - 🔭 Actively seeking position in Data Science
