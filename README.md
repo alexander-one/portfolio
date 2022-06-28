@@ -8,7 +8,7 @@
 - 🐦 Tweet Similarity using KNN (In Progress) - Example of clean coding outside of a notebook in the .py
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
-- 🖥️ MATLAB Lung Segmentation (In Progress)
+- 🖥️ MATLAB Lung Segmentation (In Progress) - Needs to be edited for clarity in the code
 - 🏗️ Cement Strength via Linear Regression with Gradient Descent (In progress) - Example of using scikit learn in the .ipynb
 
 ## Currently Learning/Reading About
