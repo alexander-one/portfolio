@@ -3,6 +3,7 @@
 - 🎥 Recording and editing a video on MATLAB's image processing via machine learning
 - 📂 Creating a source of my most re-used functions and processes
 - 🐍 Reveiwing Python to have "just in case" knowledge instead of "just in time" knowledge
+- 🧮 Completing Danny Ma's SQL challenges
 
 ## Projects in my Portfolio 
 - 🐦 Tweet Similarity using KNN (In Progress) - [Example of clean coding outside of a notebook](https://github.com/alexander-one/portfolio/blob/main/Project%20-Tweet%20KNN/KNN_Tweets.py)
