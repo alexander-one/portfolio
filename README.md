@@ -17,6 +17,7 @@
 - ✔️ Clean Code practices
 
 ## Interested in Learning/Diving Deeper
+- :whale: Docker
 - ❓ Hypothesis testing
 - 📊 Explanable AI
 - 📖 Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
