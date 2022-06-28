@@ -10,7 +10,7 @@
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
 - 🖥️ MATLAB Lung Segmentation (In Progress) - Needs to be edited for clarity in the code
-- 🏗️ Cement Strength via Linear Regression with Gradient Descent (In progress) - [Example of using scikit learn](https://github.com/alexander-one/portfolio/blob/main/Project%20-%20Concrete%20Strength%20ML/Concrete%20Strength%20ML%20Techniques.ipynb)
+- 🏗️ Cement Strength via Linear Regression with various ML tools (In progress) - [Example of using scikit learn](https://github.com/alexander-one/portfolio/blob/main/Project%20-%20Concrete%20Strength%20ML/Concrete%20Strength%20ML%20Techniques.ipynb)
 
 ## Currently Learning/Reading About
 - 🗃️ ETL processes
