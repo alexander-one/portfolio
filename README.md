@@ -5,11 +5,11 @@
 - 🐍 Reveiwing Python to have "just in case" knowledge instead of "just in time" knowledge
 
 ## Projects in my Portfolio 
-- 🐦 Tweet Similarity using KNN (In Progress) - Example of clean coding outside of a notebook in the .py
+- 🐦 Tweet Similarity using KNN (In Progress) - [Example of clean coding outside of a notebook in the .py](https://github.com/alexander-one/portfolio/blob/main/Project%20-Tweet%20KNN/KNN_Tweets.py)
 - 🔬 Covid-19 Exploratory Statistics (Upcoming)
 - 🐲"Monsters, 5e" SQL Project (Upcoming)
 - 🖥️ MATLAB Lung Segmentation (In Progress) - Needs to be edited for clarity in the code
-- 🏗️ Cement Strength via Linear Regression with Gradient Descent (In progress) - Example of using scikit learn in the .ipynb
+- 🏗️ Cement Strength via Linear Regression with Gradient Descent (In progress) - [Example of using scikit learn in the .ipynb](https://github.com/alexander-one/portfolio/blob/main/Project%20-%20Concrete%20Strength%20ML/Concrete%20Strength%20ML%20Techniques.ipynb)
 
 ## Currently Learning/Reading About
 - 🗃️ ETL processes
