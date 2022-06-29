@@ -1,6 +1,6 @@
 ## Currently Working On
 - 📅 Analyzing past projects and bringing them up to date with what I currently know
-- 🎥 Recording and editing a video on MATLAB's image processing via machine learning
+- :cloud: AWS Cloud Practitioner Certification
 - 📂 Creating a source of my most re-used functions and processes
 - 🐍 Reveiwing Python to have "just in case" knowledge instead of "just in time" knowledge
 - 🧮 Completing Danny Ma's SQL challenges
@@ -24,7 +24,6 @@
 - 📖 Text prediction via NLP (Planned project using Warbreaker by Sanderson as corpus)
 - ❇️ Intermediate to advanced distributed computing (Pyspark)
 - ⚙️ ML/AI solutions in production
-- 🌩️ Cloud based solutions
 - 👁️ Visualization tools
 
 ## A Little About Me
